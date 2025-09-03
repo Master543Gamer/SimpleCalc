@@ -1,10 +1,7 @@
-# SimpleCalc
+# SimplCalc
 Just a simple Python calculator made in Tkinter.
 Using PAGE.
-No big buttons, really just suited for keyboard.
-**BE WARNED AS THIS CALCULATOR USES "eval()" FOR CALCULATION!**
+Undergone a MASSIVE rewrite on September 3rd 2025.
+Is still ugly (because it's Tkinter), but i plan to rewrite in PySide when i get an actually capable PC.
+Version 1.0 will stay downloadable from Releases.
 I made this to test my skill.
-
-
-
-<img width="616" height="339" alt="simplecalc" src="https://github.com/user-attachments/assets/8305e2af-73e6-43da-9121-4612f1517fef" />
