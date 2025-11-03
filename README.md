@@ -1,7 +1,2 @@
 # SimplCalc
-Just a simple Python calculator made in Tkinter.
-Using PAGE.
-Undergone a MASSIVE rewrite on September 3rd 2025.
-Is still ugly (because it's Tkinter), but i plan to rewrite in PySide when i get an actually capable PC.
-Version 1.0 will stay downloadable from Releases.
-I made this to test my skill.
+Just a simple calculator that used to be Tkinter but is now Qt. I wrote it in PySide but then i translated it to C++ (shoutout to ChatGPT) because PySide can easily break.
